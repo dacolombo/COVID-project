@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+numpy
+scipy
+datetime
+ipython
+ipywidgets
+math
