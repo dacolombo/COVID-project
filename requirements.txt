@@ -1,4 +1,4 @@
-notebook
+jupyter-book
 pandas
 matplotlib
 seaborn
