@@ -6,4 +6,4 @@ scipy
 datetime
 ipython
 ipywidgets
-math
+python-math
